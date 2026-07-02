@@ -1,0 +1,27 @@
+[
+    {
+        "code": "INR",
+        "name": "Indian Rupee",
+        "flag": "🇮🇳"
+    },
+    {
+        "code": "USD",
+        "name": "US Dollar",
+        "flag": "🇺🇸"
+    },
+    {
+        "code": "EUR",
+        "name": "Euro",
+        "flag": "🇪🇺"
+    },
+    {
+        "code": "GBP",
+        "name": "British Pound",
+        "flag": "🇬🇧"
+    },
+    {
+        "code": "JPY",
+        "name": "Japanese Yen",
+        "flag": "🇯🇵"
+    }
+]
